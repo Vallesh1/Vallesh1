@@ -25,9 +25,10 @@ I'm an Electronics and Communication Engineering student deeply invested in the 
 </p>
 
 **Hardware & VLSI Design**
-> **HDLs:** Verilog
-> **EDA & Tools:** OpenLane, Vivado HLS, Magic, OpenROAD
-> **Platforms:** PYNQ-Z2, Zynq SoC, Raspberry Pi
+* 🔹 **Major HDL:** Verilog
+* 🔹 **Scripting & Automation:** TCL
+* 🔹 **EDA Tools:** Synopsys, OpenLane, Vivado HLS, Magic, OpenROAD
+* 🔹 **Platforms:** PYNQ-Z2, Zynq SoC, Raspberry Pi
 
 ---
 
@@ -47,12 +48,12 @@ I'm an Electronics and Communication Engineering student deeply invested in the 
 ### 📊 GitHub & Silicon Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vallesh1&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFD5" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vallesh1&theme=tokyonight&hide_border=true&title_color=00FFD5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vallesh1&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFD5" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vallesh1&theme=tokyonight&hide_border=true&title_color=00FFD5" width="49%" />
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vallesh1&theme=tokyonight&area=true&hide_border=true&color=00FFD5" width="100%" />
+  <img src="https://activity-graph.onrender.com/graph?username=Vallesh1&bg_color=1a1b26&color=00FFD5&line=00FFD5&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Vallesh Nath GitHub Activity Graph" />
 </p>
