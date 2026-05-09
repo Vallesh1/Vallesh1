@@ -16,7 +16,7 @@ I'm an Electronics and Communication Engineering student deeply invested in the 
 
 * 🔭 **Currently focusing on:** ASIC Physical Design cycles, timing analysis, and Verilog-based RTL coding.
 * ⚡ **Hardware passions:** FPGA-based acceleration (PYNQ-Z2/Zynq SoC), EV powertrains, and embedded systems.
-* 📫 **Reach me at:** vallesh.nath@gmail.com | Vallesh Nath
+* 📫 **Reach me at:** [Your Email Here] | [Your LinkedIn Profile Link Here]
 
 ---
 
@@ -34,9 +34,7 @@ I'm an Electronics and Communication Engineering student deeply invested in the 
 
 | 🚀 Project | 🧠 Domain | 💻 Tech Stack & Tools |
 | :--- | :--- | :--- |
-| **ASIC RTL-to-GDS Flow** | Physical Design | Verilog, Floorplanning, STA, OpenLane |
+| **Satellite BMS RTL to GDS** | Physical Design | Verilog, Floorplanning, STA, OpenLane |
 | **FPGA Image Encryption** | Hardware Acceleration | Verilog, PYNQ-Z2, AXI Interfaces, DMA |
-| **EV Smart Dashboard** | Embedded / Automotive | Python, Hardware Monitoring |
-| **Smart Medicine Box** | Embedded Systems | Raspberry Pi, RTC Module, GPIO |
 
 *(Note to recruiters: Check the individual repositories for PPA reports, synthesis results, and architecture diagrams!)*
