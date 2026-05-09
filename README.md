@@ -16,7 +16,7 @@ I'm an Electronics and Communication Engineering student deeply invested in the 
 
 * 🔭 **Currently focusing on:** ASIC Physical Design cycles, timing analysis, and Verilog-based RTL coding.
 * ⚡ **Hardware passions:** FPGA-based acceleration (PYNQ-Z2/Zynq SoC), EV powertrains, and embedded systems.
-* 📫 **Reach me at:** [Your Email Here] | [Your LinkedIn Profile Link Here]
+* 📫 **Reach me at:** vallesh.nath@gmail.com | Vallesh Nath
 
 ---
 
