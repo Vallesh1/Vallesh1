@@ -1,17 +1,12 @@
-<h1 align="center">Vallesh Nath</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=00FFD5&center=true&vCenter=true&width=600&lines=Electronics+Engineer;VLSI+Backend+Enthusiast;Physical+Design+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=2000&color=00FFD5&center=true&vCenter=true&width=600&lines=Vallesh+Nath" alt="Name" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=2000&color=00FFD5&center=true&vCenter=true&width=600&lines=Electronics+Engineer" alt="Title 1" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=6000&pause=2000&color=00FFD5&center=true&vCenter=true&width=600&lines=VLSI+Backend+Enthusiast" alt="Title 2" /><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=7000&pause=2000&color=00FFD5&center=true&vCenter=true&width=600&lines=Physical+Design+Specialist" alt="Title 3" />
 </div>
 
 <div align="center">
   <em>"Translating complex logic into optimized silicon."</em>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vallesh1/Vallesh1/output/github-contribution-snake.svg" width="100%" alt="Contribution Snake Animation" />
 </div>
 
 ---
