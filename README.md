@@ -15,8 +15,8 @@
 I'm an Electronics and Communication Engineering student deeply invested in the semiconductor industry, with a strong focus on the **RTL-to-GDSII flow**, physical design automation, and hardware acceleration. I enjoy the challenge of hardware-software co-design and building systems that bridge raw silicon with practical applications.
 
 * 🔭 **Currently focusing on:** ASIC Physical Design cycles, timing analysis, and Verilog-based RTL coding.
-* ⚡ **Hardware passions:** FPGA-based acceleration (PYNQ-Z2/Zynq SoC), EV powertrains, and embedded systems.
-* 📫 **Reach me at:** [Your Email Here] | [Your LinkedIn Profile Link Here]
+* ⚡ **Hardware passions:** FPGA-based acceleration (PYNQ-Z2/Zynq SoC), VLSI Backend, Physical Design.
+* 📫 **Reach me at:** vallesh.nath@gmail.com | Vallesh Nath
 
 ---
 
