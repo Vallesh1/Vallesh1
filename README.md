@@ -25,7 +25,7 @@ I'm an Electronics and Communication Engineering student deeply invested in the 
 **Hardware & VLSI Design**
 * 🔹 **Major HDL:** Verilog
 * 🔹 **Scripting & Automation:** TCL
-* 🔹 **EDA Tools:** Synopsys, OpenLane, Vivado HLS, Magic, OpenROAD
+* 🔹 **EDA Tools:** Synopsys, Cadence, OpenLane, Vivado HLS, Magic, OpenROAD
 * 🔹 **Platforms:** PYNQ-Z2, Zynq SoC, Raspberry Pi
 
 ---
