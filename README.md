@@ -37,4 +37,3 @@ I'm an Electronics and Communication Engineering student deeply invested in the 
 | **Satellite BMS RTL to GDS** | Physical Design | Verilog, Floorplanning, STA, OpenLane |
 | **FPGA Image Encryption** | Hardware Acceleration | Verilog, PYNQ-Z2, AXI Interfaces, DMA |
 
-*(Note to recruiters: Check the individual repositories for PPA reports, synthesis results, and architecture diagrams!)*
